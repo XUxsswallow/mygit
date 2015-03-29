@@ -13,6 +13,7 @@ namespace MvcOldShop.Controllers
 
         public ActionResult Index()
         {
+
             return View();
         }
 
